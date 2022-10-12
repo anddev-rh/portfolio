@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_navigation_headers",
+  "info": {
+    "displayName": "header",
+    "icon": "heading",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "type": "json",
+      "required": true
+    }
+  }
+}
